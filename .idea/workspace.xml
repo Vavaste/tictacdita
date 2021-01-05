@@ -1,9 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="664b3d59-83e9-443f-8b0c-84317ee32cf6" name="Default Changelist" comment="start tictactoeapp">
+      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lqhMrmDH956FBneQVFOfz0Izsj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="664b3d59-83e9-443f-8b0c-84317ee32cf6" name="Default Changelist" comment="" />
+      <created>1608330484294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608330484294</updated>
+      <workItem from="1608330486280" duration="6978000" />
+      <workItem from="1608391925308" duration="268000" />
+      <workItem from="1608515828275" duration="86000" />
+      <workItem from="1608852928355" duration="123000" />
+      <workItem from="1608922973294" duration="317000" />
+      <workItem from="1609856544666" duration="2447000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="start tictactoeapp" />
+    <option name="LAST_COMMIT_MESSAGE" value="start tictactoeapp" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="227" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609856706539">
+      <screen x="0" y="25" width="1792" height="1032" />
+    </state>
+    <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1608346216011" />
+    <state x="360" y="227" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1032/1792.-234.2560.1415@0.25.1792.1032" timestamp="1609856706539" />
+    <state x="485" y="140" width="1007" height="801" key="CommitChangelistDialog2" timestamp="1609880534561">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="485" y="140" width="1007" height="801" key="CommitChangelistDialog2/0.25.1792.1095/1792.-234.2560.1415@0.25.1792.1095" timestamp="1609880534561" />
+    <state x="100" y="125" width="1592" height="832" key="DiffContextDialog" timestamp="1609880483945">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="100" y="125" width="1592" height="832" key="DiffContextDialog/0.25.1792.1095/1792.-234.2560.1415@0.25.1792.1095" timestamp="1609880483945" />
+    <state width="1771" height="264" key="GridCell.Tab.0.bottom" timestamp="1609880436466">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="301" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1608346236478" />
+    <state width="1771" height="264" key="GridCell.Tab.0.bottom/0.25.1792.1032/1792.-234.2560.1415@0.25.1792.1032" timestamp="1609858522044" />
+    <state width="1771" height="264" key="GridCell.Tab.0.bottom/0.25.1792.1095/1792.-234.2560.1415@0.25.1792.1095" timestamp="1609880436466" />
+    <state width="1771" height="284" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1608514636191" />
+    <state width="1771" height="264" key="GridCell.Tab.0.center" timestamp="1609880436465">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="301" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1608346236477" />
+    <state width="1771" height="264" key="GridCell.Tab.0.center/0.25.1792.1032/1792.-234.2560.1415@0.25.1792.1032" timestamp="1609858522044" />
+    <state width="1771" height="264" key="GridCell.Tab.0.center/0.25.1792.1095/1792.-234.2560.1415@0.25.1792.1095" timestamp="1609880436465" />
+    <state width="1771" height="284" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1608514636191" />
+    <state width="1771" height="264" key="GridCell.Tab.0.left" timestamp="1609880436465">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="301" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1608346236475" />
+    <state width="1771" height="264" key="GridCell.Tab.0.left/0.25.1792.1032/1792.-234.2560.1415@0.25.1792.1032" timestamp="1609858522043" />
+    <state width="1771" height="264" key="GridCell.Tab.0.left/0.25.1792.1095/1792.-234.2560.1415@0.25.1792.1095" timestamp="1609880436465" />
+    <state width="1771" height="284" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1608514636190" />
+    <state width="1771" height="264" key="GridCell.Tab.0.right" timestamp="1609880436466">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="301" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1608346236478" />
+    <state width="1771" height="264" key="GridCell.Tab.0.right/0.25.1792.1032/1792.-234.2560.1415@0.25.1792.1032" timestamp="1609858522044" />
+    <state width="1771" height="264" key="GridCell.Tab.0.right/0.25.1792.1095/1792.-234.2560.1415@0.25.1792.1095" timestamp="1609880436466" />
+    <state width="1771" height="284" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1608514636191" />
+    <state x="559" y="298" width="674" height="486" key="find.popup" timestamp="1609856678934">
+      <screen x="0" y="25" width="1792" height="1032" />
+    </state>
+    <state x="559" y="298" width="674" height="486" key="find.popup/0.25.1792.1032/1792.-234.2560.1415@0.25.1792.1032" timestamp="1609856678934" />
+    <state x="561" y="265" key="run.anything.popup" timestamp="1608331025098">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="265" key="run.anything.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1608331025098" />
   </component>
 </project>
